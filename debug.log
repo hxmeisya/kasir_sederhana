@@ -1,0 +1,18 @@
+Array
+(
+    [id_pelanggan] => 1
+    [id_pegawai] => 1
+    [total_harga] => 9.9
+    [barang] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [nama] => Ichitan Thai Milk Coffee Drink 300mL
+                    [harga] => 9900
+                    [jumlah] => 1
+                )
+
+        )
+
+)
